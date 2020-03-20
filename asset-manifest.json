@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/firebase/static/css/main.6280febe.chunk.css",
+    "main.js": "/firebase/static/js/main.8c42f2cb.chunk.js",
+    "main.js.map": "/firebase/static/js/main.8c42f2cb.chunk.js.map",
+    "runtime-main.js": "/firebase/static/js/runtime-main.544d7626.js",
+    "runtime-main.js.map": "/firebase/static/js/runtime-main.544d7626.js.map",
+    "static/js/2.12d78ff6.chunk.js": "/firebase/static/js/2.12d78ff6.chunk.js",
+    "static/js/2.12d78ff6.chunk.js.map": "/firebase/static/js/2.12d78ff6.chunk.js.map",
+    "index.html": "/firebase/index.html",
+    "precache-manifest.167869fb541fb3961c0ac999d3ea6c33.js": "/firebase/precache-manifest.167869fb541fb3961c0ac999d3ea6c33.js",
+    "service-worker.js": "/firebase/service-worker.js",
+    "static/css/main.6280febe.chunk.css.map": "/firebase/static/css/main.6280febe.chunk.css.map",
+    "static/js/2.12d78ff6.chunk.js.LICENSE.txt": "/firebase/static/js/2.12d78ff6.chunk.js.LICENSE.txt",
+    "static/media/calavera.jpg": "/firebase/static/media/calavera.c52c6946.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.544d7626.js",
+    "static/js/2.12d78ff6.chunk.js",
+    "static/css/main.6280febe.chunk.css",
+    "static/js/main.8c42f2cb.chunk.js"
+  ]
+}
